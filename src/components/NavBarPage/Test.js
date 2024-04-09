@@ -1,7 +1,7 @@
 
 const Test=()=>{
     return (
-        <div>test page</div>
+        <div>new update done in this code test page</div>
     )
 }
 
